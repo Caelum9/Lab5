@@ -9,8 +9,14 @@
  */
 public class Bank {
 
+    /**
+     *
+     */
     public String bankName;
 
+    /**
+     *
+     */
     public Bank() {
         bankName = "Illini Bank";
     }
@@ -29,6 +35,8 @@ public class Bank {
         /*
          * Implement this function
          */
+        bankAccount.
+
     }
 
     /**
